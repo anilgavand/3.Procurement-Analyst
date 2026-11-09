@@ -1,6 +1,6 @@
 # 3.Procurement-Analyst
-Procurement Analyst is a professional who analyzes purchasing data, supplier performance, spending patterns, and procurement processes to help an organization reduce costs, improve efficiency, and make better sourcing decisions.
-<br>
+Procurement Analyst is a professional who analyzes purchasing data, supplier performance, spending patterns, and procurement processes to help an organization reduce costs, improve efficiency, and make better sourcing decisions.  
+
 Key Responsibilities:
 <br>
 1. Analyze purchasing and spend data
